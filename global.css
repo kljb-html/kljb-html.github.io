@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Pixelify+Sans:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Jacquarda+Bastarda+9&family=Pixelify+Sans:wght@400..700&display=swap');
+
+body {
+
+    background-color: #1c1b13;
+    color: #ddceb6;
+    font-family: "Pixelify Sans", sans-serif;
+    text-shadow: 2px 2px 4px #111111;
+    
+}
+
+main {
+
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+    width: fit-content;
+    height: fit-content;
+    padding: 0.4rem 1.2rem;
+    margin: 16em auto 0;
+    background-color: #454230;
+    border-left: #AD8B52 0.1em solid;
+    box-shadow: 9px 10px 20px #000000;
+}
+
+h1 {
+
+    background-color: #2A281D;
+    color: #C06F2D;
+    font-family: "Jacquard 12", system-ui;
+    text-align:center;
+    font-weight: 400;
+    box-shadow: 5px 5px 8px #000000e1;
+    padding: 0.4rem 1.2rem;
+    
+}
+
+table {
+
+    color: #3f0f09;
+    text-shadow: 2px 2px 4px #70483d;
+}
+
+
+
+a:link {
+    color: #97ab22
+}
+
+a:visited {
+    color:#C02D34
+}
+
+a:hover {
+    color: #c0592d
+}
+
+ul {
+
+    list-style-image: url(images/listdot.png);
+}
+
+li {
+
+    margin: 4px 0px 0px 0px;
+}
