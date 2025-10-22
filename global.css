@@ -105,6 +105,12 @@ li {
 
 }
 
+#navigation a:visited {
+
+    color: #AD8B52;
+
+}
+
 #navigation a:hover {
 
     color: #c06a2d;
