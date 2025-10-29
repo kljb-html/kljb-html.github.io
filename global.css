@@ -85,7 +85,6 @@ li {
 
     text-align: center;
     display: flex;
-  justify-content: center;
   gap: 30px; 
 }
 
@@ -93,7 +92,7 @@ li {
 
     display: flex;
     justify-content: center;
-    padding: 0.4rem 1.2rem;
+    padding: 0.6rem 1.2rem;
     font-family: "Jacquarda Bastarda 9", system-ui;
 
 
@@ -179,4 +178,45 @@ li {
 
     padding: 0.4rem 1.2rem 1rem;
     
+}
+
+#wishlist {
+
+    padding: 0.4rem 1.2rem 1rem;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+    width: 900px;
+    height: fit-content;
+    padding: 0.4rem 1.2rem;
+    margin: 2em auto 0;
+    background-color: #454230;
+    border-left: #AD8B52 0.1em solid;
+    box-shadow: 9px 10px 20px #000000;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#wishsub {
+
+    margin: 1em auto 0;
+
+}
+
+.box {
+
+
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.card {
+
+    background-color: #ddceb6;
+    color: #3f0f09;
+    text-shadow: 2px 2px 4px #70483d;
 }
